@@ -5,9 +5,15 @@ body{
 h3{
     text-align: center;
 }
-
+nav{
+    background-color: blanchedalmond;
+}
 .primeiro-titulo{
     color: black;
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+    margin: 20px;
 }
 a{
     color: blueviolet;
