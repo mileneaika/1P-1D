@@ -8,6 +8,7 @@ h3{
 nav{
     background-color: blanchedalmond;
 }
+
 .primeiro-titulo{
     color: black;
     text-align: center;
@@ -17,7 +18,21 @@ nav{
 }
 a{
     color: blueviolet;
+    padding: ;
+
 }
 header{
     color: blue;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+a:hover{
+    color: blueviolet;
+    text-decoration: underline;
 }
